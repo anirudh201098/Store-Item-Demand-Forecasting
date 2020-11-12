@@ -13,9 +13,13 @@ Values of sale range from about 2 to 50.
 #### Store-wise and Item-wise sales arranged according to maximum sales
 <img src="https://github.com/anirudh201098/Store-Item-Demand-Forecasting/blob/master/Data%20Visualization/Screenshot%20(251).png"  width="1200" height="600">
 
+From the figures, we can say that each store and each item has trend and seasonality componenet.
+
 #### Day-wise and Month-wise and Year-wise sales
 
 <img src="https://github.com/anirudh201098/Store-Item-Demand-Forecasting/blob/master/Data%20Visualization/Screenshot%20(252).png"  width="800" height="300">
+ 
+ From the figures, we can say that the sales increase in each year.
 
 #### Item-wise and Store-wise sales
 
