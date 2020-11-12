@@ -35,7 +35,7 @@ For validation, we considered leave 6 out strategy, wherein 6 months is used as 
 ### Deep models
 In this category, after concatenating all the embedding layers, we applied Neural Networks, Long Short term Memory (LSTM), Temporal Convolutional Neural Network (TCN), Hybrid model (TCN +LSTM), and LSTM Autoencoder.
 
-#### Other techniques 
+### Other techniques 
 Fbprophet 
 
 ### Predictions on Deep models
