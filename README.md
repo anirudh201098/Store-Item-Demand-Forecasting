@@ -41,11 +41,11 @@ Fbprophet
 ### Predictions on Deep models
 
 #### Predictions of Neural Networks evaluated by R2 score
-<img src="https://github.com/anirudh201098/Store-Item-Demand-Forecasting/blob/master/Data%20Visualization/Screenshot%20(254).png"  width="800" height="300">
+<img src="https://github.com/anirudh201098/Store-Item-Demand-Forecasting/blob/master/Data%20Visualization/Screenshot%20(254).png"  width="600" height="300">
 
 #### Predictions of LSTM evaluated by R2 score
 
-<img src="https://github.com/anirudh201098/Store-Item-Demand-Forecasting/blob/master/Data%20Visualization/Screenshot%20(255).png"  width="800" height="300">
+<img src="https://github.com/anirudh201098/Store-Item-Demand-Forecasting/blob/master/Data%20Visualization/Screenshot%20(255).png"  width="600" height="300">
 
 Similarly, we have plotted graphs for TCN, Hybrid model and LSTM Auto encoder
 
