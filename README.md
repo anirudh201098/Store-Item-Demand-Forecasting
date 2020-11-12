@@ -68,3 +68,8 @@ Similarly, we have plotted graphs for TCN, Hybrid model and LSTM Auto encoder
 
 [TCN + LSTM](https://drive.google.com/file/d/1_Vf97a2sikYEndV1fPi_Zkq0VNF0WOdP/view?usp=sharing)
 
+#### References
+
+[1] [Entity Embeddings of Categorical Variables](https://arxiv.org/pdf/1604.06737.pdf)
+
+[2] https://github.com/philipperemy/keras-tcn
