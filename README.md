@@ -34,7 +34,7 @@ After adding embedding layers for year, week of the day, day of the week and mon
 
 #### Train, Test and Validation sets:
 We considered 2017 as our test data, and 2013 -2016 as our train data. The train data has 7,30,500 samples, and test data has 1,82,500 samples.
-For validation, we considered leave 6 out strategy, wherein 6 months is used as validation data and rest of the 42 months is used for training each set of samples. We fine tuned the results considering different 6 months in each year.
+For validation, we considered leave 6 out strategy, wherein 6 months is used as validation data and rest of the 42 months is used for training each set of samples. We fine tuned the results considering different 6 months in each year. In total, we have 8 sets for 2013-2016 years.
 
 ### Deep models
 In this category, after concatenating all the embedding layers, we applied Neural Networks, Long Short term Memory (LSTM), Temporal Convolutional Neural Network (TCN), Hybrid model (TCN +LSTM), and LSTM Autoencoder.
