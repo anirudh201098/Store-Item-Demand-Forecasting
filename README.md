@@ -55,3 +55,16 @@ Similarly, we have plotted graphs for TCN, Hybrid model and LSTM Auto encoder
 #### Predictions of Fbprophet evaluated by R2 score, MAPE, MAE
 <img src="https://github.com/anirudh201098/Store-Item-Demand-Forecasting/blob/master/Data%20Visualization/Screenshot%20(259).png"  width="800" height="300">
 
+
+### Weights files
+
+[Neural Networks](https://drive.google.com/file/d/1Hxude2urWC8IUZLat-otKnKRKOXg59Lo/view?usp=sharing)
+
+[LSTM](https://drive.google.com/file/d/1-3xQkwXwO8M61h4u-PUlR5YGXFN0RePY/view?usp=sharing)
+
+[TCN](https://drive.google.com/file/d/1FHj7JsTU1MV4TiO1PeG4b56RGaEfYhmJ/view?usp=sharing)
+
+[LSTM Auto Encoder](https://drive.google.com/file/d/1RjodfvHtOa4Vcz-Lp8jd6F9iANhJPrDk/view?usp=sharing)
+
+[TCN + LSTM](https://drive.google.com/file/d/1_Vf97a2sikYEndV1fPi_Zkq0VNF0WOdP/view?usp=sharing)
+
